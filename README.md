@@ -8,17 +8,18 @@ Generate hilarious memes with ease using MemeGPT! This application leverages the
 
 ## 📚 Table of Contents
 
-- [Features](#-features)
-- [How to Use](#-how-to-use)
-  - [Prerequisites](#-prerequisites)
-  - [Installation](#-installation)
-  - [Generating Memes](#-generating-memes)
-- [Dependencies](#-dependencies)
-- [Contributing](#-contributing)
+- [Features](#features)
+- [How to Use](#how-to-use)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Generating Memes](#generating-memes)
+- [Dependencies](#dependencies)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
-## ✨ Features
+## Features
 
 - **AI-Powered Meme Generation**  
   Uses OpenAI's GPT models to understand your input and generate relevant meme text.
@@ -37,9 +38,9 @@ Generate hilarious memes with ease using MemeGPT! This application leverages the
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
-### ✅ Prerequisites
+### Prerequisites
 
 1. **Python 3.7+** – Make sure you have Python installed on your system.
 2. **pip** – Python package installer.
@@ -54,7 +55,7 @@ Generate hilarious memes with ease using MemeGPT! This application leverages the
 
 ---
 
-### ⚙️ Installation
+### Installation
 
 ```bash
 git clone https://github.com/Dhananjay-97/MemeGPT.git
@@ -67,7 +68,8 @@ venv\Scripts\activate     # On Windows
 pip install -r requirements.txt
 
 streamlit run app.py
-```
+
+
 Generating Memes
 Enter your text: In the Streamlit app, you'll see a text area labeled "Situation, topic or article:". Enter the text you want to generate a meme about. This could be a short phrase, a topic, or even a longer story.
 
