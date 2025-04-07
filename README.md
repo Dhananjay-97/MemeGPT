@@ -71,17 +71,20 @@ streamlit run app.py
 ```
 
 Generating Memes
-Enter your text: In the Streamlit app, you'll see a text area labeled "Situation, topic or article:". Enter the text you want to generate a meme about. This could be a short phrase, a topic, or even a longer story.
+1. Enter Your Text
+In the Streamlit app, you'll see a text area labeled "Situation, topic or article:". Enter the text you want to generate a meme about. This could be a short phrase, a topic, or even a longer story.
 
-Click "Generate Memes": Click the "Generate Memes" button. MemeGPT will use OpenAI to process your input, select suitable meme templates, and generate meme images.
+2. Click "Generate Memes"
+Click the "Generate Memes" button. MemeGPT will use OpenAI to process your input, select suitable meme templates, and generate meme images.
 
-View and Manage Memes: The generated memes will be displayed in columns below. You can:
+3. View and Manage Memes
+The generated memes will be displayed below:
 
 View: See the generated meme images.
 
 Delete: Click the "🗑️ Delete" button below a meme to remove it from the display.
 
-📦 Dependencies
+Dependencies
 streamlit
 
 python-dotenv
@@ -92,7 +95,7 @@ Pillow (PIL)
 
 You can find the exact versions in the requirements.txt file.
 
-🤝 Contributing
+Contributing
 We welcome contributions! You can:
 
 💡 Suggest New Meme Templates: Propose new meme formats to be added to meme_data.json.
@@ -101,5 +104,4 @@ We welcome contributions! You can:
 
 🎨 Enhance UI/UX: Suggest or implement improvements to the Streamlit interface.
 
-🐛 Report Bugs: Found a bug? Let us know by opening an issue!
-   
+🐛 Report Bugs: Found a bug? Let us know by opening an issue!   
