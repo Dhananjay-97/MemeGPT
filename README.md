@@ -11,7 +11,7 @@ Generate hilarious memes with ease using MemeGPT! This application leverages the
 - [Features](#-features)
 - [How to Use](#-how-to-use)
   - [Prerequisites](#-prerequisites)
-  - [Installation](#-installation)
+  - [Installation](#installation)
   - [Generating Memes](#-generating-memes)
 - [Dependencies](#-dependencies)
 - [Contributing](#-contributing)
