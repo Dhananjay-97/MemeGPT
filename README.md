@@ -68,7 +68,7 @@ venv\Scripts\activate     # On Windows
 pip install -r requirements.txt
 
 streamlit run app.py
-
+```
 
 Generating Memes
 Enter your text: In the Streamlit app, you'll see a text area labeled "Situation, topic or article:". Enter the text you want to generate a meme about. This could be a short phrase, a topic, or even a longer story.
