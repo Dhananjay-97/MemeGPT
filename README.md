@@ -12,9 +12,9 @@ Generate hilarious memes with ease using MemeGPT! This application leverages the
 - [How to Use](#-how-to-use)
   - [Prerequisites](#-prerequisites)
   - [Installation](#installation)
-  - [Generating Memes](#-generating-memes)
-- [Dependencies](#-dependencies)
-- [Contributing](#-contributing)
+  - [Generating Memes](#generating-memes)
+- [Dependencies](#dependencies)
+- [Contributing](#contributing)
 
 ---
 
