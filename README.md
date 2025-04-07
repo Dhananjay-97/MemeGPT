@@ -47,7 +47,7 @@ Generate hilarious memes with ease using MemeGPT! This application leverages the
 4. **Environment Variables**  
    Set your OpenAI API key as an environment variable named `OPENAI_API_KEY`. You can do this by:
    - Creating a `.env` file in the root directory and adding:
-     ```bash
+     ```
      OPENAI_API_KEY=YOUR_API_KEY_HERE
      ```
    - Or setting it directly in your system's environment variables.
